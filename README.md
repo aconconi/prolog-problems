@@ -1,1 +1,2 @@
-# prolog-problems
+# Collection of Prolog problems
+
